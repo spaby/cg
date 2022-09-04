@@ -1,2 +1,2 @@
 hello
-ce mai faci, suntem in fix
+ A doua linie in hello, pe branch dev, ha ha ha
