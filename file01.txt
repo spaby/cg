@@ -3,15 +3,8 @@ hello
 
 
 
-<<<<<<< HEAD
-----iar acesta este din cg-------
-
-
-Aceasta e din fork , yes ve, merge go, alle
-=======
 Aceasta e din fork , yes ve, merge go, alle
 
 
 
-Introdus de file original---------------------modificare ce tre sa treaca la fork cu git fetch upstream, apoi git merge upstream/main
->>>>>>> upstream/main
+Introdus de file original---------------------modificare ce tre sa treaca la fork cu git fetch upstream, apoi git merge upstream/mai
