@@ -1,2 +1,6 @@
 hello
  A doua linie in hello, pe branch dev, ha ha ha
+
+
+
+Aceasta e din fork , yes ve, merge go, alle
