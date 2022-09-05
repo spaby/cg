@@ -2,3 +2,7 @@
 temp
 #Files
 *.log
+
+#ssh
+ssh_mspaiuc
+ssh_mspaiuc.pub
